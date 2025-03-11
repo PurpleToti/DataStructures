@@ -1,0 +1,6 @@
+﻿  array.c
+C:\Users\Arthur\Code\DataStructures\structures\array\src\structure\array.h(12,15): warning C4255: 'array_create' : aucun prototype de fonction fourni : conversion de '()' en '(void)'
+  (compiler le fichier source '../src/structure/array.c')
+  
+C:\Users\Arthur\Code\DataStructures\structures\array\src\structure\array.c(22,8): warning C4255: 'array_create' : aucun prototype de fonction fourni : conversion de '()' en '(void)'
+  array.vcxproj -> C:\Users\Arthur\Code\DataStructures\structures\array\build\Debug\array.lib

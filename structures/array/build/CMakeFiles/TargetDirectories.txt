@@ -1,0 +1,5 @@
+C:/Users/Arthur/Code/DataStructures/structures/array/build/CMakeFiles/array.dir
+C:/Users/Arthur/Code/DataStructures/structures/array/build/CMakeFiles/array_test.dir
+C:/Users/Arthur/Code/DataStructures/structures/array/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Arthur/Code/DataStructures/structures/array/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Arthur/Code/DataStructures/structures/array/build/CMakeFiles/ZERO_CHECK.dir

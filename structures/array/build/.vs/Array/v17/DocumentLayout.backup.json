@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arthur\\Code\\DataStructures\\structures\\array\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{945B2116-4917-33ED-A98D-7A54E9D3BA74}|array_test.vcxproj|C:\\Users\\Arthur\\Code\\DataStructures\\structures\\array\\src\\manipulation\\array_test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F2FDC3-1A4F-318F-B1C7-50B4EA0A68F5}|array.vcxproj|C:\\Users\\Arthur\\Code\\DataStructures\\structures\\array\\src\\structure\\array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arthur\\Code\\DataStructures\\structures\\array\\src\\structure\\array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "array_test.c",
+              "DocumentMoniker": "C:\\Users\\Arthur\\Code\\DataStructures\\structures\\array\\src\\manipulation\\array_test.c",
+              "RelativeDocumentMoniker": "..\\src\\manipulation\\array_test.c",
+              "ToolTip": "C:\\Users\\Arthur\\Code\\DataStructures\\structures\\array\\src\\manipulation\\array_test.c",
+              "RelativeToolTip": "..\\src\\manipulation\\array_test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-11T21:16:26.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "array.c",
+              "DocumentMoniker": "C:\\Users\\Arthur\\Code\\DataStructures\\structures\\array\\src\\structure\\array.c",
+              "RelativeDocumentMoniker": "..\\src\\structure\\array.c",
+              "ToolTip": "C:\\Users\\Arthur\\Code\\DataStructures\\structures\\array\\src\\structure\\array.c",
+              "RelativeToolTip": "..\\src\\structure\\array.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-11T20:44:39.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "array.h",
+              "DocumentMoniker": "C:\\Users\\Arthur\\Code\\DataStructures\\structures\\array\\src\\structure\\array.h",
+              "RelativeDocumentMoniker": "..\\src\\structure\\array.h",
+              "ToolTip": "C:\\Users\\Arthur\\Code\\DataStructures\\structures\\array\\src\\structure\\array.h",
+              "RelativeToolTip": "..\\src\\structure\\array.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-11T20:45:00.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

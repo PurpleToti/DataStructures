@@ -1,0 +1,11 @@
+﻿  array_test.c
+C:\Users\Arthur\Code\DataStructures\structures\array\src\manipulation\array_test.c(3,1): warning C4464: le chemin include relatif contient '..'
+C:\Users\Arthur\Code\DataStructures\structures\array\src\structure\array.h(12,15): warning C4255: 'array_create' : aucun prototype de fonction fourni : conversion de '()' en '(void)'
+  (compiler le fichier source '../src/manipulation/array_test.c')
+  
+C:\Users\Arthur\Code\DataStructures\structures\array\src\manipulation\array_test.c(14,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Arthur\Code\DataStructures\structures\array\src\manipulation\array_test.c(19,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Arthur\Code\DataStructures\structures\array\src\manipulation\array_test.c(21,1): warning C5045: Le compilateur va insérer l'atténuation Spectre pour la charge de mémoire si le commutateur /Qspectre est spécifié
+C:\Users\Arthur\Code\DataStructures\structures\array\src\manipulation\array_test.c(21,1): warning C5045: C:\Users\Arthur\Code\DataStructures\structures\array\src\manipulation\array_test.c(19) : remarque : plage 'i' de l'index vérifiée par comparaison sur cette ligne
+C:\Users\Arthur\Code\DataStructures\structures\array\src\manipulation\array_test.c(21,1): warning C5045: C:\Users\Arthur\Code\DataStructures\structures\array\src\manipulation\array_test.c(21) : remarque : alimente l'appel sur cette ligne
+  array_test.vcxproj -> C:\Users\Arthur\Code\DataStructures\structures\array\build\Debug\array_test.exe
