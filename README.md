@@ -4,6 +4,11 @@ The implementation will be in C, but the important things here are the concepts 
 principle about those structures.
 
 ## Array
+### Array
+Basic array, just abstracts the malloc and free, fixed size of element and fixed size of memory
+allocated.
+### Dynamic array
+A basic array that can be resized keeping the data inside of it 
 ## Linked List
 ## Stack
 ## Queues
