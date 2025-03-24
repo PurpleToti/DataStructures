@@ -9,6 +9,9 @@ Basic array, just abstracts the malloc and free, fixed size of element and fixed
 allocated.
 ### Dynamic array
 A basic array that can ne grown keeping the data inside of it (it cannot be shrank!)
+### Vector
+TO IMPLEMENT /!\ An array that can be appened to and popped, can growand shrink depending on its actual
+content
 ## Linked List
 ## Stack
 ## Queues
